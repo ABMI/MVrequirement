@@ -6,7 +6,7 @@
 
 - Analytics use case(s): **Prediction Model**
 - Study type: **Clinical Application**
-- Tags: **Healthcare AI EXPO 2020**
+- Tags: **[Healthcare AI EXPO 2020 Finallists](https://www.nus-datathon.com/results)**
 - Study lead: **Doyeop Kim, Seojeong Shin, Jung Hwa Lee, Rae Woong Park**
 - Study lead forums tag: 
 - Study start date: **2020-12**
