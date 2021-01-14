@@ -1,2 +1,2 @@
 # MVrequirement
-Mechanical Ventilation and Extubation Failure Prediction using MIMIC-IV
+Mechanical Ventilation requirement and Extubation Failure Prediction using MIMIC-IV
